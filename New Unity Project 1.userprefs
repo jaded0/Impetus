@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BreakWall.js">
+    <Files>
+      <File FileName="Assets\TouchMove.js" Line="1" Column="1" />
+      <File FileName="Assets\newLevel.js" Line="1" Column="1" />
+      <File FileName="Assets\BreakWall.js" Line="2" Column="20" />
+      <File FileName="Assets\MoveTowardFinger.js" Line="5" Column="18" />
+      <File FileName="Assets\FollowSprite.js" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
